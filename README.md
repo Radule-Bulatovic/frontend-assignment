@@ -28,11 +28,11 @@ Now that you have cloned the repository and checked out to the master branch, yo
 
 `npm install`
 
-`npm dev`
+`npm run dev`
 
 The first command will install all the required dependencies for the project. The second command will start the development server and open the React project in your default browser.
 
-You can check out application on http://localhost:5173/
+You can check out application on URL displayed on your terminal (usually http://localhost:5173/).
 
 # Embedding App Dev Frame
 
@@ -40,6 +40,4 @@ To embed application using App Dev Frame you need to clone following app dev fra
 
 `git clone https://github.com/discolabs/shopify-dev-frame.git`
 
-After that open index.html file and enter following URL in the textbox and hit go.
-
-http://localhost:5173/
+After that open index.html file and enter application URL in the textbox and hit go.
