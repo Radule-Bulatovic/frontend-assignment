@@ -16,7 +16,7 @@ This will clone the repository to a new directory with the same name as the repo
 # Checkout to Master Branch
 Once the repository is cloned, navigate to the repository directory by running the following command:
 
-`cd repository-name`
+`cd frontend-assignment`
 
 Next, you need to checkout to the master branch by running the following command:
 
