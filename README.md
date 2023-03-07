@@ -40,4 +40,4 @@ To embed application using App Dev Frame you need to clone following app dev fra
 
 `git clone https://github.com/discolabs/shopify-dev-frame.git`
 
-After that open index.html file and enter application URL in the textbox and hit go.
+After that open **index.html** file and enter application URL in the textbox and hit go.
